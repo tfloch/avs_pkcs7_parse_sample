@@ -1,0 +1,5 @@
+sample:
+  description: Test of PKCS7 parsing 
+  name: PKCS7 parse
+common:
+    tags: pkcs7_parse
